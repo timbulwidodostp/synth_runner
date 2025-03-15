@@ -1,5 +1,24 @@
-d 'DEA': Data envelopment analysis
-d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+D 'synth_runner': Utilities to automate synthetic control estimation using synth Use synth_runner With STATA 18
+D
+F _sr_add_keepfile_to_agg.ado
+F _sr_do_work_do.ado
+F _sr_do_work_tr.ado
+F _sr_gen_time_locals.ado
+F _sr_get_returns.ado
+F _sr_get_w_v.ado
+F _sr_print_dots.ado
+F calc_rmspe.ado
+F effect_graphs.ado
+F effect_graphs.sthlp
+F lsynth_mata_subr.mlib
+F pval_graphs.ado
+F pval_graphs.sthlp
+F single_treatment_graphs.ado
+F single_treatment_graphs.sthlp
+F synth.ado
+F synth.sthlp
+F synth_ll.ado
+F synth_runner.ado
+F synth_runner.sthlp
+F synth_wrapper.ado
+F synthopt.plugin
