@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p synth_runner Utilities to automate synthetic control estimation using synth Use synth_runner With STATA 18
