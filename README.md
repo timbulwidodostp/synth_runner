@@ -1,5 +1,7 @@
 # synth_runner
-Utilities to automate synthetic control estimation using synth Use synth_runner With STATA 18
+Utilities to automate synthetic control estimation using synth Use synth_runner With STATA 19
+
+https://www.youtube.com/watch?v=wxW8vCl0hbo
 
 Olah Data Semarang
 
